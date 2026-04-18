@@ -6,6 +6,13 @@ Hyprland configuration with multiple themes and environment customization.
 
 ---
 
+## 📸 Preview (Field)
+
+![Field Desktop](previews/Field/fieldP1.png)
+![Field Launcher](previews/Field/fieldP2.png)
+
+---
+
 ## 🎨 Themes
 
 This repository includes three configurations:
@@ -23,14 +30,7 @@ Each theme includes:
 
 ---
 
-## 📸 Previews
-
-### 🌿 Field
-
-![Field Desktop](previews/Field/fieldP1.png)
-![Field Launcher](previews/Field/fieldP2.png)
-
----
+## 📸 Other Themes
 
 ### 🌙 Blue
 

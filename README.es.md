@@ -6,6 +6,13 @@ Configuración de Hyprland con múltiples temas y personalización del entorno.
 
 ---
 
+## 📸 Preview (Field)
+
+![Field Desktop](previews/Field/fieldP1.png)
+![Field Launcher](previews/Field/fieldP2.png)
+
+---
+
 ## 🎨 Temas
 
 El repositorio incluye tres configuraciones:
@@ -23,14 +30,7 @@ Cada tema incluye:
 
 ---
 
-## 📸 Previews
-
-### 🌿 Field
-
-![Field Desktop](previews/Field/fieldP1.png)
-![Field Launcher](previews/Field/fieldP2.png)
-
----
+## 📸 Otros temas
 
 ### 🌙 Blue
 
