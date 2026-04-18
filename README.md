@@ -1,18 +1,20 @@
 # 🧩 Hyprland Dotfiles
 
-Configuración personal de Hyprland con distintos temas y personalización del entorno.
+🌍 Language: [Español](README.es.md) | **English**
+
+Hyprland configuration with multiple themes and environment customization.
 
 ---
 
-## 🎨 Temas
+## 🎨 Themes
 
-El repositorio incluye tres configuraciones:
+This repository includes three configurations:
 
-* **Field** → estilo limpio con fondo natural
-* **Blue** → entorno oscuro y minimalista
-* **Minimal** → configuración liviana y básica
+* **Field** → clean style with natural background
+* **Blue** → dark and minimal environment
+* **Minimal** → lightweight and basic setup
 
-Cada tema incluye:
+Each theme includes:
 
 * Hyprland
 * Waybar
@@ -26,7 +28,6 @@ Cada tema incluye:
 ### 🌿 Field
 
 ![Field Desktop](previews/Field/fieldP1.png)
-
 ![Field Launcher](previews/Field/fieldP2.png)
 
 ---
@@ -34,7 +35,6 @@ Cada tema incluye:
 ### 🌙 Blue
 
 ![Blue Desktop](previews/Blue/blueP1.png)
-
 ![Blue Launcher](previews/Blue/blueP2.png)
 
 ---
@@ -42,31 +42,51 @@ Cada tema incluye:
 ### ⚪ Minimal
 
 ![Minimal Desktop](previews/Minimal/minimalP1.png)
-
 ![Minimal Launcher](previews/Minimal/minimalP2.png)
 
 ---
 
-## ⚙️ Uso
+## ⌨️ Keybindings
 
-Clonar el repositorio:
+| Key                 | Action                   |
+| ------------------- | ------------------------ |
+| mod + Q             | launch terminal          |
+| mod + R             | open launcher (wofi)     |
+| mod + E             | open file manager        |
+| mod + C             | close window             |
+| mod + V             | toggle floating          |
+| mod + F             | fullscreen               |
+| mod + arrows        | move focus               |
+| mod + [1–0]         | switch workspace         |
+| mod + shift + [1–0] | move window to workspace |
+| mod + mouse         | move/resize windows      |
+| mod + P             | screenshot (full)        |
+| mod + shift + P     | screenshot (region)      |
+| mod + U             | toggle waybar            |
+| mod + M             | exit session             |
 
-```bash id="j0d9mc"
+---
+
+## ⚙️ Usage
+
+Clone the repository:
+
+```bash id="en1"
 git clone https://github.com/valentintelleria/dotfiles
 cd dotfiles
 ```
 
-Copiar el tema que quieras en `~/.config`:
+Copy the desired theme to `~/.config`:
 
-```bash id="l1f6v9"
+```bash id="en2"
 cp -r themes/Field/* ~/.config/
 ```
 
-(Cambiar `Field` por `Blue` o `Minimal`)
+(Change `Field` to `Blue` or `Minimal`)
 
 ---
 
-## 🧠 Notas
+## 🧠 Notes
 
-* Configuración personal, puede requerir ajustes.
-* Algunas rutas y configuraciones dependen del sistema (monitor, wallpapers, etc.).
+* Personal configuration, may require adjustments
+* Some paths and settings depend on your system (monitor, wallpapers, etc.)
